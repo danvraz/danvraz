@@ -12,7 +12,8 @@
 </div>
 
 <p align="center">
-  <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/e631e9d7-45fe-4ad1-8c61-89f261032659" />
+  <img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/fdcded30-5a8c-431b-b826-5d813fc207fe" />
+
 
 </p>
 
@@ -23,15 +24,11 @@ Hi, I'm Dan.
 Robotics Engineering undergrad 
 
 Learning computers from the kernel upwards.
-
 <br>
 
 `Linux` • `Robotics` • `Physical AI`
-
 <br><br>
-
 My current obsession usually decides what I'm building next XD.
-
 
 
 </div>
