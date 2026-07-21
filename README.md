@@ -20,15 +20,17 @@
 
 Hi, I'm Dan.
 
-I'm a Robotics Engineering undergrad working on Linux, ricing, robotics and AI.
+Robotics Engineering undergrad 
+
+Learning computers from the kernel upwards.
 
 <br>
 
-`linux` • `robotics` • `physical ai`
+`Linux` • `Robotics` • `Physical AI`
 
 <br><br>
 
-I build anything and everything that catches my attention and am ALWAYS breaking something XD.
+My current obsession usually decides what I'm building next XD.
 
 
 
