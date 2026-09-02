@@ -25,12 +25,11 @@ Hi, I'm Dan.
 
 Robotics Engineering undergrad 
 
-Learning computers from the kernel upwards.
 <br>
 
 `Linux` • `Robotics` • `Physical AI`
 <br><br>
-My current obsession usually decides what I'm building next XD.
+My current obsession usually decides what I'm building next XDD.
 
 
 </div>
